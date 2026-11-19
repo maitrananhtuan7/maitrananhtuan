@@ -1,4 +1,4 @@
-# 📦 WEBSITE QUẢN LÝ KHO HÀNG
+# WEBSITE QUẢN LÝ KHO HÀNG
 
 ## 1. Giới thiệu dự án
 
